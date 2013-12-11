@@ -11,7 +11,7 @@
 > — DJ Patil, „Data Jujitsu”
 
 1. Bzyl, Włodzimierz. [4 książki z Project Gutenberg](/docs/wbzyl.md).
-1. Bełcik, Jakub.
+1. [Bełcik, Jakub](/docs/jbelcik/README.md).
 1. Białkowski, Dominik.
 1. Brzeziński, Damian.
 1. Cała, Mariusz.
